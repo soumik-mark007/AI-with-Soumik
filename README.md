@@ -7,7 +7,7 @@
 **Highlights**: Key features or innovations in this project.  
 **Tech Stack**: Tools, libraries, or frameworks used.  
 
-[📂 Explore Project Folder](./Project1_Name)
+[📂 Explore Project Folder](./RNN_Pytorch)
 
 ---
 
