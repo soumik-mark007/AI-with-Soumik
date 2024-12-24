@@ -2,7 +2,7 @@
 ---
 
 ## 🏆 Featured Projects  
-### 🔹 **Project 1: [Project Name]**  
+### 🔹 **Project 1: Name Classification using RNN - Pytorch from scratch**  
 **Description**: Briefly describe the purpose of this project.  
 **Highlights**: Key features or innovations in this project.  
 **Tech Stack**: Tools, libraries, or frameworks used.  
