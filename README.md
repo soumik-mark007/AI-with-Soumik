@@ -2,7 +2,7 @@
 ---
 
 ## 🏆 Featured Projects  
-### 🔹 **Project 1: Name Classification using RNN - Pytorch from scratch**  
+### 🔹 **Project 1: Name Classification using RNN - Pytorch from Scratch**  
 Description:
 This project implements a Recurrent Neural Network (RNN) from scratch using PyTorch to classify names into their respective categories (e.g., languages or regions). It demonstrates how sequence data can be processed for classification tasks.
 
